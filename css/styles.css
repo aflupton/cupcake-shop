@@ -1,0 +1,31 @@
+.flashy {
+  font-style: italic;
+  color: red;
+}
+.best {
+  width: 25%;
+  font-weight: bold;
+  border-style: solid;
+  border-color: #6B5B95;
+
+}
+h1 {
+text-align: center;
+}
+body {
+  background-color: #F0EDE5;
+  color: #944743;
+}
+
+img{
+  width:45%;
+  height:auto;
+
+
+}
+
+p{
+width: 50%;
+vertical-align: middle;
+
+}
